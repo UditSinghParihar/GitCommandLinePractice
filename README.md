@@ -19,7 +19,7 @@ By Corey M Schafer [link][1]
  12. `git diff `
  13. `git pull origin master `
  14. `git push origin master `
- 15. `git branch `
+ 15. `git branch ` : Also commit it to branch, so it wont reflect on master
  16. `git branch `
  17. `git checkout `
  18. `git merge  `
